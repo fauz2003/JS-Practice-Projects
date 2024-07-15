@@ -86,5 +86,10 @@ li{
     transform: scale(1.1);
 }
 .task_ID{
+    color: orange;
+     /* display: none;  */
+    display: block;
+}
+.task_ID_hidden{
     display: none;
 }
